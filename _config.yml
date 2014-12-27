@@ -9,14 +9,14 @@ kramdown:
 author: 
   name: 叶伟明
   email: ywm654987852@gmail.com
-  link: http://acreator.org
+  link: http://Amosvista.org
   weibo: http://weibo.com/MrBrightside
   github: http://github.com/Amosvista
 
 # 站点信息
 title: Acreator的博客 
 description: Acreator的博客
-url: http://acreator.org
+url: http://Amosvista.org
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -26,7 +26,7 @@ favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
 # google analytics 设置
 ga:
   id: UA-58019947-1
-  url: acreator.org
+  url: Amosvista.org
 
 # disqus 设置
 disqus:

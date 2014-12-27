@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://acreator.org](http://acreator.org)
+地址：[http://Amosvista.org](http://Amosvista.org)
 
 ### 安装说明
 
