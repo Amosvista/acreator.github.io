@@ -25,12 +25,12 @@ favicon: http://yansu-uploads.stor.sinaapp.com/imgs/favicon.ico
 
 # google analytics 设置
 ga:
-  id: UA-54767140-1
+  id: UA-58019947-1
   url: acreator.org
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: acreator-zh
 
 # 主题设置，自动激活某个标签
 active: 技术
